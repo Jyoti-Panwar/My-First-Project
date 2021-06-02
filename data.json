@@ -1,0 +1,74 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Shradha",
+      "rollno": "500",
+      "score": "7",
+      "email": "shradha@123@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Madhu",
+      "rollno": "200",
+      "score": "4",
+      "email": "madhu123@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Jyoti",
+      "rollno": "300",
+      "score": "3.8",
+      "email": "jyoti123@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Nandini",
+      "rollno": "400",
+      "score": "4.9",
+      "email": "nandini@123@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Shradha",
+      "rollno": "500",
+      "score": "6",
+      "email": "shradha@123@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Pooja",
+      "rollno": "100",
+      "score": "4.5",
+      "email": "pooja123@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Madhu",
+      "rollno": "200",
+      "score": "4",
+      "email": "madhu123@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Jyoti",
+      "rollno": "300",
+      "score": "3.8",
+      "email": "jyoti123@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Nandini",
+      "rollno": "400",
+      "score": "4.9",
+      "email": "nandini@123@gmail.com"
+    },
+    {
+      "name": "Shradha",
+      "rollno": "500",
+      "score": "6",
+      "email": "shradha@123@gmail.com",
+      "id": 10
+    }
+  ]
+}

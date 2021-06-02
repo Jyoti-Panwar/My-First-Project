@@ -1,0 +1,25 @@
+.App{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    float: left;
+}
+.App input{
+    margin:25px 570px;
+    width: 25%;
+    float: left;
+    height: 40px;
+    font-size: 20px;
+    padding-left: 10px;
+    outline: none;
+}
+.user{
+    width: 25%;
+    float: left;
+    color: darkgreen;
+    margin: 0px 608px;
+}
+.user p{
+    width: 17%;
+    font-size: 16px;
+    margin: 0 auto;
+}
